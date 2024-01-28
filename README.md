@@ -1,6 +1,6 @@
 # Python Learning in 17 Days
 
-Welcome to the Python Learning in 17 Days repository! 🐍
+Welcome to the Python Learning in 17 Days repository!
 
 This repository is designed to guide you through the fundamentals of Python programming in just 17 days. Each day corresponds to a specific Python concept or skill, and we provide a dedicated script for each day's learning.
 
